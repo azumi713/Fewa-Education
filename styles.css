@@ -122,7 +122,6 @@ nav {
     background-color: #0017e6;
     color: white;
     font-style: bold;
-    font-family: fantasy;
     text-decoration: none;
     border-radius: 10px;
     transition: background-color 0.3s;
@@ -143,7 +142,6 @@ nav {
     color: white;
     grid-auto-flow: dense;
     text-decoration: none;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-radius: 15px;
     transition: background-color 0.3s;
 }
